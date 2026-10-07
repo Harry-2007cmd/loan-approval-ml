@@ -7,10 +7,6 @@ using machine learning classification algorithms.
 
 ## Dataset
 
-The dataset used in this project was obtained from Kaggle.
-
-Source: Kaggle
-
 The dataset contains approximately 1,000 loan application records with
 information about applicants and their financial/background characteristics.
 
