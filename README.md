@@ -7,8 +7,11 @@ using machine learning classification algorithms.
 
 ## Dataset
 
-The dataset contains approximately 1,000 loan applications with applicant
-and financial information.
+The dataset contains approximately 1,000 loan application records with
+information about applicants and their financial/background characteristics.
+
+All data preprocessing, exploratory data analysis, model training,
+and evaluation in this project were performed as part of this project.
 
 ## Machine Learning Models
 
